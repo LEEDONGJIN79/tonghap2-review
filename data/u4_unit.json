@@ -1,0 +1,189 @@
+{
+ "unit": 4,
+ "name": "Ⅳ. 세계화와 평화",
+ "short": "Ⅳ단원",
+ "pages": "102~109",
+ "order": 4,
+ "topics": [
+  {
+   "topic": 1,
+   "name": "세계화의 다양한 양상",
+   "pages": "102~105"
+  },
+  {
+   "topic": 2,
+   "name": "세계화의 문제점과 해결 방안",
+   "pages": "106~109"
+  }
+ ],
+ "concepts": [
+  {
+   "conceptId": "u4-t1-c01",
+   "topic": 1,
+   "name": "세계화의 배경과 의미",
+   "importance": "상",
+   "pages": "102"
+  },
+  {
+   "conceptId": "u4-t1-c02",
+   "topic": 1,
+   "name": "지역화의 의미",
+   "importance": "상",
+   "pages": "102"
+  },
+  {
+   "conceptId": "u4-t1-c03",
+   "topic": 1,
+   "name": "세계화와 지역화의 관계(삿포로 눈 축제)",
+   "importance": "상",
+   "pages": "102"
+  },
+  {
+   "conceptId": "u4-t1-c04",
+   "topic": 1,
+   "name": "지역화 전략의 의미와 필요성",
+   "importance": "중",
+   "pages": "102"
+  },
+  {
+   "conceptId": "u4-t1-c05",
+   "topic": 1,
+   "name": "지리적 표시제·장소 마케팅·지역 브랜드",
+   "importance": "상",
+   "pages": "102, 105"
+  },
+  {
+   "conceptId": "u4-t1-c06",
+   "topic": 1,
+   "name": "세계 도시의 등장 배경(WTO·무역 장벽)",
+   "importance": "중",
+   "pages": "103"
+  },
+  {
+   "conceptId": "u4-t1-c07",
+   "topic": 1,
+   "name": "세계 도시의 의미와 정치·경제·문화 기능",
+   "importance": "상",
+   "pages": "103"
+  },
+  {
+   "conceptId": "u4-t1-c08",
+   "topic": 1,
+   "name": "생산자 서비스업과 소비자 서비스업",
+   "importance": "중",
+   "pages": "103"
+  },
+  {
+   "conceptId": "u4-t1-c09",
+   "topic": 1,
+   "name": "다국적 기업의 의미와 경제 규모",
+   "importance": "중",
+   "pages": "104"
+  },
+  {
+   "conceptId": "u4-t1-c10",
+   "topic": 1,
+   "name": "공간적 분업(본사·연구소·공장의 입지)",
+   "importance": "상",
+   "pages": "104"
+  },
+  {
+   "conceptId": "u4-t1-c11",
+   "topic": 1,
+   "name": "초국적 기업",
+   "importance": "하",
+   "pages": "104"
+  },
+  {
+   "conceptId": "u4-t1-c12",
+   "topic": 1,
+   "name": "문화 교류의 활성화와 보편적 가치의 확산",
+   "importance": "중",
+   "pages": "104"
+  },
+  {
+   "conceptId": "u4-t2-c01",
+   "topic": 2,
+   "name": "문화의 획일화(선진국 문화 중심)",
+   "importance": "상",
+   "pages": "106"
+  },
+  {
+   "conceptId": "u4-t2-c02",
+   "topic": 2,
+   "name": "문화의 소멸(약소국·원주민·소수 민족)",
+   "importance": "중",
+   "pages": "106"
+  },
+  {
+   "conceptId": "u4-t2-c03",
+   "topic": 2,
+   "name": "국가 간 빈부 격차의 심화와 그 원인",
+   "importance": "상",
+   "pages": "106~107"
+  },
+  {
+   "conceptId": "u4-t2-c04",
+   "topic": 2,
+   "name": "부의 불평등 자료(세계 부 보고서·1인당 GDP 지도)",
+   "importance": "중",
+   "pages": "106"
+  },
+  {
+   "conceptId": "u4-t2-c05",
+   "topic": 2,
+   "name": "보편 윤리와 특수 윤리 간 갈등",
+   "importance": "상",
+   "pages": "107"
+  },
+  {
+   "conceptId": "u4-t2-c06",
+   "topic": 2,
+   "name": "유해 물질 전파와 전염병의 급속한 확산",
+   "importance": "중",
+   "pages": "107"
+  },
+  {
+   "conceptId": "u4-t2-c07",
+   "topic": 2,
+   "name": "문화 다양성 증진과 유네스코 문화 다양성 선언",
+   "importance": "상",
+   "pages": "108"
+  },
+  {
+   "conceptId": "u4-t2-c08",
+   "topic": 2,
+   "name": "분배적 정의 실현: 공적 개발 원조·기술 이전",
+   "importance": "상",
+   "pages": "108"
+  },
+  {
+   "conceptId": "u4-t2-c09",
+   "topic": 2,
+   "name": "불공정한 무역 구조 개선과 공정 무역",
+   "importance": "중",
+   "pages": "108"
+  },
+  {
+   "conceptId": "u4-t2-c10",
+   "topic": 2,
+   "name": "보편 윤리 존중과 특수 윤리 성찰",
+   "importance": "중",
+   "pages": "108"
+  },
+  {
+   "conceptId": "u4-t2-c11",
+   "topic": 2,
+   "name": "약소국에 대한 원조의 의무(싱어·롤스)",
+   "importance": "중",
+   "pages": "108"
+  },
+  {
+   "conceptId": "u4-t2-c12",
+   "topic": 2,
+   "name": "스마트폰 속 세계화의 문제(콜탄·분쟁 광물)",
+   "importance": "중",
+   "pages": "109"
+  }
+ ]
+}

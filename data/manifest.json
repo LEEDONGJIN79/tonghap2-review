@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "8cd66ea51d",
-  "generatedAt": "2026-10-12T02:29:19+09:00",
+  "version": "2d2e59d38f",
+  "generatedAt": "2026-10-12T03:08:18+09:00",
   "units": [
     {
       "unit": 1,
@@ -43,6 +43,27 @@
       ],
       "conceptCount": 64,
       "order": 1
+    },
+    {
+      "unit": 4,
+      "name": "Ⅳ. 세계화와 평화",
+      "short": "Ⅳ단원",
+      "pages": "102~109",
+      "file": "data/u4_unit.json",
+      "topics": [
+        {
+          "topic": 1,
+          "name": "세계화의 다양한 양상",
+          "pages": "102~105"
+        },
+        {
+          "topic": 2,
+          "name": "세계화의 문제점과 해결 방안",
+          "pages": "106~109"
+        }
+      ],
+      "conceptCount": 24,
+      "order": 4
     }
   ],
   "sets": [
