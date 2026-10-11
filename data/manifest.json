@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "b0a8a40911",
-  "generatedAt": "2026-10-12T05:00:07+09:00",
+  "version": "4081ba41a8",
+  "generatedAt": "2026-10-12T06:01:34+09:00",
   "units": [
     {
       "unit": 1,
@@ -259,6 +259,42 @@
         "images/u2/t3-07.webp",
         "images/u2/t3-09-m.webp"
       ]
+    },
+    {
+      "id": "u2_r2",
+      "kind": "round",
+      "unit": 2,
+      "units": [
+        2
+      ],
+      "round": 2,
+      "title": "Ⅱ단원 2회차 · 응용",
+      "subtitle": "자료와 사례에 개념을 적용 · 21문항",
+      "order": 22,
+      "file": "data/u2_r2.json",
+      "count": 21,
+      "byType": {
+        "mc": 18,
+        "short": 0,
+        "essay": 3
+      },
+      "timeLimitMin": null,
+      "images": [
+        "images/u2/t1-01.webp",
+        "images/u2/t1-04-k.webp",
+        "images/u2/t1-05-m.webp",
+        "images/u2/t2-01-b.webp",
+        "images/u2/t2-05-m.webp",
+        "images/u2/t2-06-m.webp",
+        "images/u2/t2-07.webp",
+        "images/u2/t2-09-m2.webp",
+        "images/u2/t2-11-b.webp",
+        "images/u2/t3-01-b.webp",
+        "images/u2/t3-05-a.webp",
+        "images/u2/t3-06-a.webp",
+        "images/u2/t3-11-k2.webp",
+        "images/u2/t3-12-m.webp"
+      ]
     }
   ],
   "images": [
@@ -314,17 +350,29 @@
     "images/u1/t6-06.webp",
     "images/u1/t6-07-a.webp",
     "images/u1/t6-08.webp",
+    "images/u2/t1-01.webp",
+    "images/u2/t1-04-k.webp",
     "images/u2/t1-05-m.webp",
+    "images/u2/t2-01-b.webp",
     "images/u2/t2-01-m.webp",
     "images/u2/t2-03-m.webp",
+    "images/u2/t2-05-m.webp",
     "images/u2/t2-06-m.webp",
+    "images/u2/t2-07.webp",
     "images/u2/t2-08-k.webp",
+    "images/u2/t2-09-m2.webp",
+    "images/u2/t2-11-b.webp",
     "images/u2/t2-11.webp",
     "images/u2/t2-12-ka.webp",
+    "images/u2/t3-01-b.webp",
     "images/u2/t3-01.webp",
     "images/u2/t3-04-k.webp",
+    "images/u2/t3-05-a.webp",
+    "images/u2/t3-06-a.webp",
     "images/u2/t3-07.webp",
-    "images/u2/t3-09-m.webp"
+    "images/u2/t3-09-m.webp",
+    "images/u2/t3-11-k2.webp",
+    "images/u2/t3-12-m.webp"
   ],
   "guide": "data/guide.json"
 }
