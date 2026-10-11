@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "a15f22c28a",
-  "generatedAt": "2026-10-12T07:40:28+09:00",
+  "version": "6d5a009a14",
+  "generatedAt": "2026-10-12T08:35:46+09:00",
   "units": [
     {
       "unit": 1,
@@ -382,6 +382,32 @@
       ]
     },
     {
+      "id": "u4_r3",
+      "kind": "round",
+      "unit": 4,
+      "units": [
+        4
+      ],
+      "round": 3,
+      "title": "Ⅳ단원 3회차 · 실전",
+      "subtitle": "학교 시험 형식 · 지도서 변형 · 고난도 · 12문항",
+      "order": 43,
+      "file": "data/u4_r3.json",
+      "count": 12,
+      "byType": {
+        "mc": 10,
+        "short": 0,
+        "essay": 2
+      },
+      "timeLimitMin": null,
+      "images": [
+        "images/u4/t1-04.webp",
+        "images/u4/t1-05-k.webp",
+        "images/u4/t2-03-k.webp",
+        "images/u4/t2-12-k.webp"
+      ]
+    },
+    {
       "id": "u5_r1",
       "kind": "round",
       "unit": 5,
@@ -550,18 +576,21 @@
     "images/u4/t1-02-p.webp",
     "images/u4/t1-03.webp",
     "images/u4/t1-04.webp",
+    "images/u4/t1-05-k.webp",
     "images/u4/t1-05.webp",
     "images/u4/t1-06.webp",
     "images/u4/t1-08-k.webp",
     "images/u4/t1-09-k.webp",
     "images/u4/t2-01.webp",
     "images/u4/t2-02.webp",
+    "images/u4/t2-03-k.webp",
     "images/u4/t2-03.webp",
     "images/u4/t2-04-k.webp",
     "images/u4/t2-05-a.webp",
     "images/u4/t2-07.webp",
     "images/u4/t2-09-p.webp",
     "images/u4/t2-10-a.webp",
+    "images/u4/t2-12-k.webp",
     "images/u5/t1-02.webp",
     "images/u5/t1-03-b.webp",
     "images/u5/t1-04-k.webp",
