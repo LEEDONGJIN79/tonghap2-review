@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "e8664c33e3",
-  "generatedAt": "2026-10-12T04:14:06+09:00",
+  "version": "0b25e8340a",
+  "generatedAt": "2026-10-12T04:18:41+09:00",
   "units": [
     {
       "unit": 1,
@@ -43,6 +43,32 @@
       ],
       "conceptCount": 64,
       "order": 1
+    },
+    {
+      "unit": 2,
+      "name": "Ⅱ. 사회 정의와 불평등",
+      "short": "Ⅱ단원",
+      "pages": "40~53",
+      "file": "data/u2_unit.json",
+      "topics": [
+        {
+          "topic": 1,
+          "name": "정의의 의미와 필요성",
+          "pages": "40~41"
+        },
+        {
+          "topic": 2,
+          "name": "분배적 정의와 교정적 정의",
+          "pages": "42~47"
+        },
+        {
+          "topic": 3,
+          "name": "다양한 정의관의 특징과 적용",
+          "pages": "48~53"
+        }
+      ],
+      "conceptCount": 32,
+      "order": 2
     },
     {
       "unit": 4,

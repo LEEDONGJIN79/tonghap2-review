@@ -1,0 +1,250 @@
+{
+ "unit": 2,
+ "name": "Ⅱ. 사회 정의와 불평등",
+ "short": "Ⅱ단원",
+ "pages": "40~53",
+ "order": 2,
+ "topics": [
+  {
+   "topic": 1,
+   "name": "정의의 의미와 필요성",
+   "pages": "40~41"
+  },
+  {
+   "topic": 2,
+   "name": "분배적 정의와 교정적 정의",
+   "pages": "42~47"
+  },
+  {
+   "topic": 3,
+   "name": "다양한 정의관의 특징과 적용",
+   "pages": "48~53"
+  }
+ ],
+ "concepts": [
+  {
+   "conceptId": "u2-t1-c01",
+   "topic": 1,
+   "name": "정의의 일반적 의미와 실현 조건",
+   "importance": "상",
+   "pages": "40"
+  },
+  {
+   "conceptId": "u2-t1-c02",
+   "topic": 1,
+   "name": "정의 판단의 차이와 공정함이라는 기준",
+   "importance": "중",
+   "pages": "40"
+  },
+  {
+   "conceptId": "u2-t1-c03",
+   "topic": 1,
+   "name": "정의의 필요성①: 사회생활의 갈등 조정",
+   "importance": "상",
+   "pages": "41"
+  },
+  {
+   "conceptId": "u2-t1-c04",
+   "topic": 1,
+   "name": "정의의 필요성②: 모두의 인간다운 삶 보장",
+   "importance": "상",
+   "pages": "41"
+  },
+  {
+   "conceptId": "u2-t1-c05",
+   "topic": 1,
+   "name": "사회를 구성·유지하는 핵심 덕목인 정의",
+   "importance": "하",
+   "pages": "41"
+  },
+  {
+   "conceptId": "u2-t1-c06",
+   "topic": 1,
+   "name": "아리스토텔레스의 일반적 정의와 특수적 정의",
+   "importance": "상",
+   "pages": "41"
+  },
+  {
+   "conceptId": "u2-t1-c07",
+   "topic": 1,
+   "name": "아리스토텔레스의 분배적 정의와 교정적 정의",
+   "importance": "중",
+   "pages": "41"
+  },
+  {
+   "conceptId": "u2-t1-c08",
+   "topic": 1,
+   "name": "시대에 따른 다양한 정의(플라톤·벤담)",
+   "importance": "중",
+   "pages": "41"
+  },
+  {
+   "conceptId": "u2-t2-c01",
+   "topic": 2,
+   "name": "분배적 정의의 의미와 필요성",
+   "importance": "중",
+   "pages": "42"
+  },
+  {
+   "conceptId": "u2-t2-c02",
+   "topic": 2,
+   "name": "능력에 따른 분배의 의미와 장단점",
+   "importance": "상",
+   "pages": "43"
+  },
+  {
+   "conceptId": "u2-t2-c03",
+   "topic": 2,
+   "name": "업적에 따른 분배의 의미와 장단점",
+   "importance": "상",
+   "pages": "44"
+  },
+  {
+   "conceptId": "u2-t2-c04",
+   "topic": 2,
+   "name": "필요에 따른 분배의 의미와 장단점",
+   "importance": "상",
+   "pages": "44"
+  },
+  {
+   "conceptId": "u2-t2-c05",
+   "topic": 2,
+   "name": "기회의 평등과 결과의 평등",
+   "importance": "하",
+   "pages": "44"
+  },
+  {
+   "conceptId": "u2-t2-c06",
+   "topic": 2,
+   "name": "재능과 행운: 능력에 따른 분배의 공정성",
+   "importance": "중",
+   "pages": "43"
+  },
+  {
+   "conceptId": "u2-t2-c07",
+   "topic": 2,
+   "name": "분배 기준의 사례 적용과 상황별 선택",
+   "importance": "중",
+   "pages": "42, 45"
+  },
+  {
+   "conceptId": "u2-t2-c08",
+   "topic": 2,
+   "name": "왈처의 영역별 분배 기준",
+   "importance": "중",
+   "pages": "45"
+  },
+  {
+   "conceptId": "u2-t2-c09",
+   "topic": 2,
+   "name": "교정적 정의의 의미와 필요성",
+   "importance": "상",
+   "pages": "45~46"
+  },
+  {
+   "conceptId": "u2-t2-c10",
+   "topic": 2,
+   "name": "응보주의: 처벌 목적·한계와 칸트",
+   "importance": "상",
+   "pages": "45~46"
+  },
+  {
+   "conceptId": "u2-t2-c11",
+   "topic": 2,
+   "name": "예방주의: 처벌 목적·한계와 베카리아",
+   "importance": "상",
+   "pages": "45~46"
+  },
+  {
+   "conceptId": "u2-t2-c12",
+   "topic": 2,
+   "name": "촉법소년 기준 연령 하한 논쟁",
+   "importance": "중",
+   "pages": "47"
+  },
+  {
+   "conceptId": "u2-t3-c01",
+   "topic": 3,
+   "name": "정의관의 차이와 마스크 착용 의무화 사례",
+   "importance": "중",
+   "pages": "48~49"
+  },
+  {
+   "conceptId": "u2-t3-c02",
+   "topic": 3,
+   "name": "자유주의적 정의관의 특징",
+   "importance": "상",
+   "pages": "49"
+  },
+  {
+   "conceptId": "u2-t3-c03",
+   "topic": 3,
+   "name": "사익(개인선)과 공익(공동선)",
+   "importance": "중",
+   "pages": "49, 51"
+  },
+  {
+   "conceptId": "u2-t3-c04",
+   "topic": 3,
+   "name": "노직의 자유 지상주의와 최소 국가",
+   "importance": "상",
+   "pages": "49~50"
+  },
+  {
+   "conceptId": "u2-t3-c05",
+   "topic": 3,
+   "name": "롤스의 평등주의적 자유주의",
+   "importance": "상",
+   "pages": "49~50"
+  },
+  {
+   "conceptId": "u2-t3-c06",
+   "topic": 3,
+   "name": "원초적 입장·무지의 베일과 정의의 원칙",
+   "importance": "중",
+   "pages": "50, 65"
+  },
+  {
+   "conceptId": "u2-t3-c07",
+   "topic": 3,
+   "name": "공동체주의적 정의관의 특징",
+   "importance": "상",
+   "pages": "49"
+  },
+  {
+   "conceptId": "u2-t3-c08",
+   "topic": 3,
+   "name": "자유주의의 추상적 자아관 비판",
+   "importance": "중",
+   "pages": "49"
+  },
+  {
+   "conceptId": "u2-t3-c09",
+   "topic": 3,
+   "name": "매킨타이어의 서사적 자아와 샌델의 연고적 자아",
+   "importance": "상",
+   "pages": "49~50"
+  },
+  {
+   "conceptId": "u2-t3-c10",
+   "topic": 3,
+   "name": "초과 이윤세에 대한 두 정의관의 평가",
+   "importance": "중",
+   "pages": "51"
+  },
+  {
+   "conceptId": "u2-t3-c11",
+   "topic": 3,
+   "name": "도둑맞은 세대와 현세대의 책임",
+   "importance": "상",
+   "pages": "52"
+  },
+  {
+   "conceptId": "u2-t3-c12",
+   "topic": 3,
+   "name": "용병제 등 사례 적용과 개인·공동체의 조화",
+   "importance": "중",
+   "pages": "51~53"
+  }
+ ]
+}
