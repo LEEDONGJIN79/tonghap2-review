@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "41e7355bd2",
-  "generatedAt": "2026-10-12T06:35:41+09:00",
+  "version": "6122c70e46",
+  "generatedAt": "2026-10-12T07:03:07+09:00",
   "units": [
     {
       "unit": 1,
@@ -297,6 +297,31 @@
       ]
     },
     {
+      "id": "u2_r3",
+      "kind": "round",
+      "unit": 2,
+      "units": [
+        2
+      ],
+      "round": 3,
+      "title": "Ⅱ단원 3회차 · 실전",
+      "subtitle": "학교 시험 형식·지도서 변형·고난도 · 18문항",
+      "order": 23,
+      "file": "data/u2_r3.json",
+      "count": 18,
+      "byType": {
+        "mc": 15,
+        "short": 0,
+        "essay": 3
+      },
+      "timeLimitMin": null,
+      "images": [
+        "images/u2/t2-10-m.webp",
+        "images/u2/t3-04-k.webp",
+        "images/u2/t3-06-b.webp"
+      ]
+    },
+    {
       "id": "u4_r1",
       "kind": "round",
       "unit": 4,
@@ -433,6 +458,7 @@
     "images/u2/t2-07.webp",
     "images/u2/t2-08-k.webp",
     "images/u2/t2-09-m2.webp",
+    "images/u2/t2-10-m.webp",
     "images/u2/t2-11-b.webp",
     "images/u2/t2-11.webp",
     "images/u2/t2-12-ka.webp",
@@ -441,6 +467,7 @@
     "images/u2/t3-04-k.webp",
     "images/u2/t3-05-a.webp",
     "images/u2/t3-06-a.webp",
+    "images/u2/t3-06-b.webp",
     "images/u2/t3-07.webp",
     "images/u2/t3-09-m.webp",
     "images/u2/t3-11-k2.webp",
