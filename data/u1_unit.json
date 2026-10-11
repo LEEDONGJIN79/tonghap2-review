@@ -1,0 +1,489 @@
+{
+ "unit": 1,
+ "name": "Ⅰ. 인권 보장과 헌법",
+ "short": "Ⅰ단원",
+ "pages": "10~37",
+ "order": 1,
+ "topics": [
+  {
+   "topic": 1,
+   "name": "인권의 의미와 변화 양상",
+   "pages": "10~13"
+  },
+  {
+   "topic": 2,
+   "name": "현대 사회의 인권",
+   "pages": "14~17"
+  },
+  {
+   "topic": 3,
+   "name": "인권 보장을 위한 헌법의 역할",
+   "pages": "20~23"
+  },
+  {
+   "topic": 4,
+   "name": "시민의 권익 보호를 위한 시민 참여",
+   "pages": "24~27"
+  },
+  {
+   "topic": 5,
+   "name": "국내 인권 문제의 양상과 해결 방안",
+   "pages": "28~31"
+  },
+  {
+   "topic": 6,
+   "name": "세계 인권 문제의 양상과 해결 방안",
+   "pages": "32~35"
+  }
+ ],
+ "concepts": [
+  {
+   "conceptId": "u1-t1-c01",
+   "topic": 1,
+   "name": "인권의 의미와 네 가지 특징",
+   "importance": "상",
+   "pages": "10"
+  },
+  {
+   "conceptId": "u1-t1-c02",
+   "topic": 1,
+   "name": "천부 인권 사상과 계몽사상",
+   "importance": "중",
+   "pages": "11"
+  },
+  {
+   "conceptId": "u1-t1-c03",
+   "topic": 1,
+   "name": "근대 시민 혁명과 자유권·평등권",
+   "importance": "상",
+   "pages": "10~11"
+  },
+  {
+   "conceptId": "u1-t1-c04",
+   "topic": 1,
+   "name": "명예혁명과 권리 장전(1689)",
+   "importance": "중",
+   "pages": "10"
+  },
+  {
+   "conceptId": "u1-t1-c05",
+   "topic": 1,
+   "name": "미국 독립 혁명과 독립 선언문(1776)",
+   "importance": "중",
+   "pages": "10"
+  },
+  {
+   "conceptId": "u1-t1-c06",
+   "topic": 1,
+   "name": "프랑스 혁명과 인간과 시민의 권리 선언",
+   "importance": "중",
+   "pages": "11, 13"
+  },
+  {
+   "conceptId": "u1-t1-c07",
+   "topic": 1,
+   "name": "참정권 확대 운동(차티스트·여성 참정권)",
+   "importance": "중",
+   "pages": "11, 13"
+  },
+  {
+   "conceptId": "u1-t1-c08",
+   "topic": 1,
+   "name": "산업 혁명과 사회권(바이마르 헌법)",
+   "importance": "상",
+   "pages": "12~13"
+  },
+  {
+   "conceptId": "u1-t1-c09",
+   "topic": 1,
+   "name": "연대권의 의미와 등장 배경",
+   "importance": "상",
+   "pages": "12"
+  },
+  {
+   "conceptId": "u1-t1-c10",
+   "topic": 1,
+   "name": "세계 인권 선언과 국제 인권 협약",
+   "importance": "중",
+   "pages": "12~13"
+  },
+  {
+   "conceptId": "u1-t1-c11",
+   "topic": 1,
+   "name": "바사크의 인권 3세대론",
+   "importance": "상",
+   "pages": "11~13"
+  },
+  {
+   "conceptId": "u1-t2-c01",
+   "topic": 2,
+   "name": "현대 사회 인권 확장의 배경",
+   "importance": "중",
+   "pages": "14"
+  },
+  {
+   "conceptId": "u1-t2-c02",
+   "topic": 2,
+   "name": "주거권의 의미와 등장 배경",
+   "importance": "상",
+   "pages": "14"
+  },
+  {
+   "conceptId": "u1-t2-c03",
+   "topic": 2,
+   "name": "주거권 보장 제도(주거 기본법 등)",
+   "importance": "중",
+   "pages": "14~15, 17"
+  },
+  {
+   "conceptId": "u1-t2-c04",
+   "topic": 2,
+   "name": "안전권의 의미와 등장 배경",
+   "importance": "상",
+   "pages": "15"
+  },
+  {
+   "conceptId": "u1-t2-c05",
+   "topic": 2,
+   "name": "안전권 보장 노력과 안전 신문고",
+   "importance": "중",
+   "pages": "15, 18~19"
+  },
+  {
+   "conceptId": "u1-t2-c06",
+   "topic": 2,
+   "name": "환경권의 의미와 권리·의무 성격",
+   "importance": "상",
+   "pages": "14~15"
+  },
+  {
+   "conceptId": "u1-t2-c07",
+   "topic": 2,
+   "name": "환경권 보장 노력(환경 정책 기본법 등)",
+   "importance": "중",
+   "pages": "15, 17"
+  },
+  {
+   "conceptId": "u1-t2-c08",
+   "topic": 2,
+   "name": "문화권의 의미와 등장 배경",
+   "importance": "상",
+   "pages": "16~17"
+  },
+  {
+   "conceptId": "u1-t2-c09",
+   "topic": 2,
+   "name": "문화권 보장 노력(헌법 제9조·문화 법률)",
+   "importance": "중",
+   "pages": "16"
+  },
+  {
+   "conceptId": "u1-t2-c10",
+   "topic": 2,
+   "name": "잊힐 권리 등 정보 사회의 새 인권",
+   "importance": "중",
+   "pages": "16"
+  },
+  {
+   "conceptId": "u1-t3-c01",
+   "topic": 3,
+   "name": "헌법의 의의와 국가의 기본권 보장 의무",
+   "importance": "중",
+   "pages": "20~21"
+  },
+  {
+   "conceptId": "u1-t3-c02",
+   "topic": 3,
+   "name": "헌법 제10조와 인간의 존엄과 가치",
+   "importance": "상",
+   "pages": "20"
+  },
+  {
+   "conceptId": "u1-t3-c03",
+   "topic": 3,
+   "name": "자유권과 평등권",
+   "importance": "중",
+   "pages": "20"
+  },
+  {
+   "conceptId": "u1-t3-c04",
+   "topic": 3,
+   "name": "참정권",
+   "importance": "중",
+   "pages": "20~21"
+  },
+  {
+   "conceptId": "u1-t3-c05",
+   "topic": 3,
+   "name": "사회권",
+   "importance": "상",
+   "pages": "20"
+  },
+  {
+   "conceptId": "u1-t3-c06",
+   "topic": 3,
+   "name": "청구권",
+   "importance": "중",
+   "pages": "20"
+  },
+  {
+   "conceptId": "u1-t3-c07",
+   "topic": 3,
+   "name": "기본권 제한의 요건과 한계(제37조 ②)",
+   "importance": "상",
+   "pages": "21"
+  },
+  {
+   "conceptId": "u1-t3-c08",
+   "topic": 3,
+   "name": "권력 분립 제도와 국가 기관 간 견제",
+   "importance": "상",
+   "pages": "21~22"
+  },
+  {
+   "conceptId": "u1-t3-c09",
+   "topic": 3,
+   "name": "민주적 선거 제도와 복수 정당 제도",
+   "importance": "중",
+   "pages": "21"
+  },
+  {
+   "conceptId": "u1-t3-c10",
+   "topic": 3,
+   "name": "기본권 구제 제도와 인권 보호 기관",
+   "importance": "상",
+   "pages": "21"
+  },
+  {
+   "conceptId": "u1-t4-c01",
+   "topic": 4,
+   "name": "시민 참여의 의미와 의의",
+   "importance": "상",
+   "pages": "24"
+  },
+  {
+   "conceptId": "u1-t4-c02",
+   "topic": 4,
+   "name": "선거와 투표 참여",
+   "importance": "중",
+   "pages": "24~25"
+  },
+  {
+   "conceptId": "u1-t4-c03",
+   "topic": 4,
+   "name": "정당·이익 집단·시민 단체를 통한 참여",
+   "importance": "상",
+   "pages": "25"
+  },
+  {
+   "conceptId": "u1-t4-c04",
+   "topic": 4,
+   "name": "공청회·자원봉사·언론을 통한 참여",
+   "importance": "중",
+   "pages": "25"
+  },
+  {
+   "conceptId": "u1-t4-c05",
+   "topic": 4,
+   "name": "온라인 참여와 그 장점",
+   "importance": "중",
+   "pages": "25"
+  },
+  {
+   "conceptId": "u1-t4-c06",
+   "topic": 4,
+   "name": "입법 청원과 주민 조례 청구",
+   "importance": "중",
+   "pages": "25"
+  },
+  {
+   "conceptId": "u1-t4-c07",
+   "topic": 4,
+   "name": "시민불복종의 의미와 사례",
+   "importance": "상",
+   "pages": "26"
+  },
+  {
+   "conceptId": "u1-t4-c08",
+   "topic": 4,
+   "name": "시민불복종의 정당화 조건",
+   "importance": "상",
+   "pages": "26"
+  },
+  {
+   "conceptId": "u1-t4-c09",
+   "topic": 4,
+   "name": "롤스와 싱어의 시민불복종",
+   "importance": "상",
+   "pages": "26"
+  },
+  {
+   "conceptId": "u1-t4-c10",
+   "topic": 4,
+   "name": "우리 지역 문제 해결 참여 활동",
+   "importance": "하",
+   "pages": "27"
+  },
+  {
+   "conceptId": "u1-t5-c01",
+   "topic": 5,
+   "name": "국내 인권 문제의 변화 양상",
+   "importance": "하",
+   "pages": "28"
+  },
+  {
+   "conceptId": "u1-t5-c02",
+   "topic": 5,
+   "name": "사회적 소수자의 의미",
+   "importance": "상",
+   "pages": "28"
+  },
+  {
+   "conceptId": "u1-t5-c03",
+   "topic": 5,
+   "name": "사회적 소수자의 상대성",
+   "importance": "중",
+   "pages": "29"
+  },
+  {
+   "conceptId": "u1-t5-c04",
+   "topic": 5,
+   "name": "사회적 소수자 차별의 실태",
+   "importance": "중",
+   "pages": "28~29"
+  },
+  {
+   "conceptId": "u1-t5-c05",
+   "topic": 5,
+   "name": "소수자 차별 해결: 인권 감수성·법 제도 보완",
+   "importance": "상",
+   "pages": "29"
+  },
+  {
+   "conceptId": "u1-t5-c06",
+   "topic": 5,
+   "name": "청소년 노동권의 의미와 침해 실태",
+   "importance": "중",
+   "pages": "30"
+  },
+  {
+   "conceptId": "u1-t5-c07",
+   "topic": 5,
+   "name": "청소년 근로 가능 연령과 제출 서류",
+   "importance": "중",
+   "pages": "30"
+  },
+  {
+   "conceptId": "u1-t5-c08",
+   "topic": 5,
+   "name": "근로 계약 직접 체결과 근로 계약서",
+   "importance": "상",
+   "pages": "30~31"
+  },
+  {
+   "conceptId": "u1-t5-c09",
+   "topic": 5,
+   "name": "청소년 근로 시간과 휴게 시간",
+   "importance": "상",
+   "pages": "31"
+  },
+  {
+   "conceptId": "u1-t5-c10",
+   "topic": 5,
+   "name": "최저 임금과 임금 지급 원칙",
+   "importance": "상",
+   "pages": "30~31"
+  },
+  {
+   "conceptId": "u1-t5-c11",
+   "topic": 5,
+   "name": "유해 업종·야간·휴일 근로 제한 등",
+   "importance": "중",
+   "pages": "30"
+  },
+  {
+   "conceptId": "u1-t5-c12",
+   "topic": 5,
+   "name": "청소년 노동권 침해의 해결 방안",
+   "importance": "중",
+   "pages": "30"
+  },
+  {
+   "conceptId": "u1-t6-c01",
+   "topic": 6,
+   "name": "세계 인권 문제의 양상과 인권 지수",
+   "importance": "중",
+   "pages": "32"
+  },
+  {
+   "conceptId": "u1-t6-c02",
+   "topic": 6,
+   "name": "빈곤의 의미와 영향",
+   "importance": "중",
+   "pages": "32"
+  },
+  {
+   "conceptId": "u1-t6-c03",
+   "topic": 6,
+   "name": "세계 기아 지수(GHI)",
+   "importance": "상",
+   "pages": "32"
+  },
+  {
+   "conceptId": "u1-t6-c04",
+   "topic": 6,
+   "name": "성차별과 성 격차 지수",
+   "importance": "중",
+   "pages": "33"
+  },
+  {
+   "conceptId": "u1-t6-c05",
+   "topic": 6,
+   "name": "유리 천장 지수",
+   "importance": "하",
+   "pages": "33"
+  },
+  {
+   "conceptId": "u1-t6-c06",
+   "topic": 6,
+   "name": "성 격차 지수와 성 불평등 지수의 차이",
+   "importance": "상",
+   "pages": "33"
+  },
+  {
+   "conceptId": "u1-t6-c07",
+   "topic": 6,
+   "name": "아동 인권과 국제 아동 권리 지표",
+   "importance": "상",
+   "pages": "33"
+  },
+  {
+   "conceptId": "u1-t6-c08",
+   "topic": 6,
+   "name": "아동 노동과 국제 연합 아동 권리 협약",
+   "importance": "중",
+   "pages": "35"
+  },
+  {
+   "conceptId": "u1-t6-c09",
+   "topic": 6,
+   "name": "국제적 차원의 해결 방안",
+   "importance": "상",
+   "pages": "34"
+  },
+  {
+   "conceptId": "u1-t6-c10",
+   "topic": 6,
+   "name": "국가적 차원의 해결과 공적 개발 원조",
+   "importance": "중",
+   "pages": "34"
+  },
+  {
+   "conceptId": "u1-t6-c11",
+   "topic": 6,
+   "name": "개인적 차원의 해결과 세계시민 의식",
+   "importance": "상",
+   "pages": "34~35"
+  }
+ ]
+}

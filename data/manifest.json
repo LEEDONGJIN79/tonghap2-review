@@ -1,0 +1,79 @@
+{
+  "app": "통합사회2 중간대비",
+  "version": "e2937a9eb6",
+  "generatedAt": "2026-10-11T23:57:13+09:00",
+  "units": [
+    {
+      "unit": 1,
+      "name": "Ⅰ. 인권 보장과 헌법",
+      "short": "Ⅰ단원",
+      "pages": "10~37",
+      "file": "data/u1_unit.json",
+      "topics": [
+        {
+          "topic": 1,
+          "name": "인권의 의미와 변화 양상",
+          "pages": "10~13"
+        },
+        {
+          "topic": 2,
+          "name": "현대 사회의 인권",
+          "pages": "14~17"
+        },
+        {
+          "topic": 3,
+          "name": "인권 보장을 위한 헌법의 역할",
+          "pages": "20~23"
+        },
+        {
+          "topic": 4,
+          "name": "시민의 권익 보호를 위한 시민 참여",
+          "pages": "24~27"
+        },
+        {
+          "topic": 5,
+          "name": "국내 인권 문제의 양상과 해결 방안",
+          "pages": "28~31"
+        },
+        {
+          "topic": 6,
+          "name": "세계 인권 문제의 양상과 해결 방안",
+          "pages": "32~35"
+        }
+      ],
+      "conceptCount": 64,
+      "order": 1
+    }
+  ],
+  "sets": [
+    {
+      "id": "u1_r1",
+      "kind": "round",
+      "unit": 1,
+      "units": [
+        1
+      ],
+      "round": 1,
+      "title": "Ⅰ단원 · 견본 6문항",
+      "subtitle": "앱 점검용 견본 (곧 1회차 전체로 바뀝니다)",
+      "order": 11,
+      "file": "data/u1_r1.json",
+      "count": 6,
+      "byType": {
+        "mc": 4,
+        "short": 1,
+        "essay": 1
+      },
+      "timeLimitMin": null,
+      "images": [
+        "images/u1/t3-04-k.webp",
+        "images/u1/t5-06.webp"
+      ]
+    }
+  ],
+  "images": [
+    "images/u1/t3-04-k.webp",
+    "images/u1/t5-06.webp"
+  ],
+  "guide": "data/guide.json"
+}
