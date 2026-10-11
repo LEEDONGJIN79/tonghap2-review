@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "23e05cbfec",
-  "generatedAt": "2026-10-12T07:35:29+09:00",
+  "version": "a15f22c28a",
+  "generatedAt": "2026-10-12T07:40:28+09:00",
   "units": [
     {
       "unit": 1,
@@ -350,6 +350,38 @@
       ]
     },
     {
+      "id": "u4_r2",
+      "kind": "round",
+      "unit": 4,
+      "units": [
+        4
+      ],
+      "round": 2,
+      "title": "Ⅳ단원 2회차 · 응용",
+      "subtitle": "자료와 사례에 개념을 적용 · 14문항",
+      "order": 42,
+      "file": "data/u4_r2.json",
+      "count": 14,
+      "byType": {
+        "mc": 12,
+        "short": 0,
+        "essay": 2
+      },
+      "timeLimitMin": null,
+      "images": [
+        "images/u4/t1-01.webp",
+        "images/u4/t1-03.webp",
+        "images/u4/t1-05.webp",
+        "images/u4/t1-06.webp",
+        "images/u4/t2-01.webp",
+        "images/u4/t2-03.webp",
+        "images/u4/t2-05-a.webp",
+        "images/u4/t2-07.webp",
+        "images/u4/t2-09-p.webp",
+        "images/u4/t2-10-a.webp"
+      ]
+    },
+    {
       "id": "u5_r1",
       "kind": "round",
       "unit": 5,
@@ -514,12 +546,22 @@
     "images/u2/t3-09-m.webp",
     "images/u2/t3-11-k2.webp",
     "images/u2/t3-12-m.webp",
+    "images/u4/t1-01.webp",
     "images/u4/t1-02-p.webp",
+    "images/u4/t1-03.webp",
     "images/u4/t1-04.webp",
+    "images/u4/t1-05.webp",
+    "images/u4/t1-06.webp",
     "images/u4/t1-08-k.webp",
     "images/u4/t1-09-k.webp",
+    "images/u4/t2-01.webp",
     "images/u4/t2-02.webp",
+    "images/u4/t2-03.webp",
     "images/u4/t2-04-k.webp",
+    "images/u4/t2-05-a.webp",
+    "images/u4/t2-07.webp",
+    "images/u4/t2-09-p.webp",
+    "images/u4/t2-10-a.webp",
     "images/u5/t1-02.webp",
     "images/u5/t1-03-b.webp",
     "images/u5/t1-04-k.webp",
