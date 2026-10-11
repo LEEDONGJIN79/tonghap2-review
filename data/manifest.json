@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "4081ba41a8",
-  "generatedAt": "2026-10-12T06:01:34+09:00",
+  "version": "70ea5d821c",
+  "generatedAt": "2026-10-12T06:10:01+09:00",
   "units": [
     {
       "unit": 1,
@@ -295,6 +295,50 @@
         "images/u2/t3-11-k2.webp",
         "images/u2/t3-12-m.webp"
       ]
+    },
+    {
+      "id": "u5_r1",
+      "kind": "round",
+      "unit": 5,
+      "units": [
+        5
+      ],
+      "round": 1,
+      "title": "Ⅴ단원 1회차 · 기본",
+      "subtitle": "개념을 정확히 아는지 확인 · 57문항",
+      "order": 51,
+      "file": "data/u5_r1.json",
+      "count": 57,
+      "byType": {
+        "mc": 43,
+        "short": 14,
+        "essay": 0
+      },
+      "timeLimitMin": null,
+      "images": [
+        "images/u5/t1-02.webp",
+        "images/u5/t1-05.webp",
+        "images/u5/t1-06-k.webp",
+        "images/u5/t1-07-a.webp",
+        "images/u5/t1-08-k.webp",
+        "images/u5/t1-09-a.webp",
+        "images/u5/t2-02.webp",
+        "images/u5/t2-03.webp",
+        "images/u5/t2-05-k.webp",
+        "images/u5/t2-08-k.webp",
+        "images/u5/t3-01.webp",
+        "images/u5/t3-02.webp",
+        "images/u5/t3-04-k.webp",
+        "images/u5/t3-09.webp",
+        "images/u5/t3-11-a.webp",
+        "images/u5/t4-02.webp",
+        "images/u5/t4-03-k.webp",
+        "images/u5/t4-04-b.webp",
+        "images/u5/t5-02.webp",
+        "images/u5/t5-05-k2.webp",
+        "images/u5/t5-07.webp",
+        "images/u5/t5-11-k2.webp"
+      ]
     }
   ],
   "images": [
@@ -372,7 +416,29 @@
     "images/u2/t3-07.webp",
     "images/u2/t3-09-m.webp",
     "images/u2/t3-11-k2.webp",
-    "images/u2/t3-12-m.webp"
+    "images/u2/t3-12-m.webp",
+    "images/u5/t1-02.webp",
+    "images/u5/t1-05.webp",
+    "images/u5/t1-06-k.webp",
+    "images/u5/t1-07-a.webp",
+    "images/u5/t1-08-k.webp",
+    "images/u5/t1-09-a.webp",
+    "images/u5/t2-02.webp",
+    "images/u5/t2-03.webp",
+    "images/u5/t2-05-k.webp",
+    "images/u5/t2-08-k.webp",
+    "images/u5/t3-01.webp",
+    "images/u5/t3-02.webp",
+    "images/u5/t3-04-k.webp",
+    "images/u5/t3-09.webp",
+    "images/u5/t3-11-a.webp",
+    "images/u5/t4-02.webp",
+    "images/u5/t4-03-k.webp",
+    "images/u5/t4-04-b.webp",
+    "images/u5/t5-02.webp",
+    "images/u5/t5-05-k2.webp",
+    "images/u5/t5-07.webp",
+    "images/u5/t5-11-k2.webp"
   ],
   "guide": "data/guide.json"
 }
