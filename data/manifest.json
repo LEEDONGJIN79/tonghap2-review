@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "70ea5d821c",
-  "generatedAt": "2026-10-12T06:10:01+09:00",
+  "version": "41e7355bd2",
+  "generatedAt": "2026-10-12T06:35:41+09:00",
   "units": [
     {
       "unit": 1,
@@ -297,6 +297,34 @@
       ]
     },
     {
+      "id": "u4_r1",
+      "kind": "round",
+      "unit": 4,
+      "units": [
+        4
+      ],
+      "round": 1,
+      "title": "Ⅳ단원 1회차 · 기본",
+      "subtitle": "개념을 정확히 아는지 확인 · 24문항",
+      "order": 41,
+      "file": "data/u4_r1.json",
+      "count": 24,
+      "byType": {
+        "mc": 18,
+        "short": 6,
+        "essay": 0
+      },
+      "timeLimitMin": null,
+      "images": [
+        "images/u4/t1-02-p.webp",
+        "images/u4/t1-04.webp",
+        "images/u4/t1-08-k.webp",
+        "images/u4/t1-09-k.webp",
+        "images/u4/t2-02.webp",
+        "images/u4/t2-04-k.webp"
+      ]
+    },
+    {
       "id": "u5_r1",
       "kind": "round",
       "unit": 5,
@@ -417,6 +445,12 @@
     "images/u2/t3-09-m.webp",
     "images/u2/t3-11-k2.webp",
     "images/u2/t3-12-m.webp",
+    "images/u4/t1-02-p.webp",
+    "images/u4/t1-04.webp",
+    "images/u4/t1-08-k.webp",
+    "images/u4/t1-09-k.webp",
+    "images/u4/t2-02.webp",
+    "images/u4/t2-04-k.webp",
     "images/u5/t1-02.webp",
     "images/u5/t1-05.webp",
     "images/u5/t1-06-k.webp",
