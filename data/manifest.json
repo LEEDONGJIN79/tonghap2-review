@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "3662ccaa8f",
-  "generatedAt": "2026-10-12T09:18:09+09:00",
+  "version": "fe26fb6467",
+  "generatedAt": "2026-10-12T09:59:50+09:00",
   "units": [
     {
       "unit": 1,
@@ -432,7 +432,7 @@
       "timeLimitMin": null,
       "images": [
         "images/u4/t1-04.webp",
-        "images/u4/t1-05-k.webp",
+        "images/u4/t1-05.webp",
         "images/u4/t2-03-k.webp",
         "images/u4/t2-12-k.webp"
       ]
@@ -642,7 +642,6 @@
     "images/u4/t1-02-p.webp",
     "images/u4/t1-03.webp",
     "images/u4/t1-04.webp",
-    "images/u4/t1-05-k.webp",
     "images/u4/t1-05.webp",
     "images/u4/t1-06.webp",
     "images/u4/t1-08-k.webp",
