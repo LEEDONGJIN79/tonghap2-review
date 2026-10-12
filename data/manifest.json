@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "9f0282075c",
-  "generatedAt": "2026-10-12T09:12:34+09:00",
+  "version": "3662ccaa8f",
+  "generatedAt": "2026-10-12T09:18:09+09:00",
   "units": [
     {
       "unit": 1,
@@ -225,6 +225,36 @@
         "images/u1/t6-04.webp",
         "images/u1/t6-05.webp",
         "images/u1/t6-06.webp"
+      ]
+    },
+    {
+      "id": "u1_r3",
+      "kind": "round",
+      "unit": 1,
+      "units": [
+        1
+      ],
+      "round": 3,
+      "title": "Ⅰ단원 3회차 · 실전",
+      "subtitle": "학교 시험형·지도서 변형·고난도 · 36문항",
+      "order": 13,
+      "file": "data/u1_r3.json",
+      "count": 36,
+      "byType": {
+        "mc": 30,
+        "short": 0,
+        "essay": 6
+      },
+      "timeLimitMin": null,
+      "images": [
+        "images/u1/r3-t1-07-s.webp",
+        "images/u1/r3-t3-01-a.webp",
+        "images/u1/t1-06-l.webp",
+        "images/u1/t2-08.webp",
+        "images/u1/t3-04-k3.webp",
+        "images/u1/t4-07-b.webp",
+        "images/u1/t6-01-p.webp",
+        "images/u1/t6-02.webp"
       ]
     },
     {
@@ -524,12 +554,15 @@
     }
   ],
   "images": [
+    "images/u1/r3-t1-07-s.webp",
+    "images/u1/r3-t3-01-a.webp",
     "images/u1/t1-01.webp",
     "images/u1/t1-02-a.webp",
     "images/u1/t1-03-a.webp",
     "images/u1/t1-04-a.webp",
     "images/u1/t1-05-a.webp",
     "images/u1/t1-05-s.webp",
+    "images/u1/t1-06-l.webp",
     "images/u1/t1-07-b.webp",
     "images/u1/t1-07-c.webp",
     "images/u1/t1-09.webp",
@@ -541,12 +574,14 @@
     "images/u1/t2-05.webp",
     "images/u1/t2-06.webp",
     "images/u1/t2-07.webp",
+    "images/u1/t2-08.webp",
     "images/u1/t2-09.webp",
     "images/u1/t3-01-k3.webp",
     "images/u1/t3-02-a.webp",
     "images/u1/t3-03.webp",
     "images/u1/t3-04-k.webp",
     "images/u1/t3-04-k2.webp",
+    "images/u1/t3-04-k3.webp",
     "images/u1/t3-05.webp",
     "images/u1/t3-06.webp",
     "images/u1/t3-07-a.webp",
@@ -559,6 +594,7 @@
     "images/u1/t4-05.webp",
     "images/u1/t4-06-k.webp",
     "images/u1/t4-06.webp",
+    "images/u1/t4-07-b.webp",
     "images/u1/t4-07-bk.webp",
     "images/u1/t5-01.webp",
     "images/u1/t5-02.webp",
@@ -568,6 +604,7 @@
     "images/u1/t5-06.webp",
     "images/u1/t5-07.webp",
     "images/u1/t5-08.webp",
+    "images/u1/t6-01-p.webp",
     "images/u1/t6-01.webp",
     "images/u1/t6-02.webp",
     "images/u1/t6-03.webp",
