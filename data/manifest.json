@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "6d5a009a14",
-  "generatedAt": "2026-10-12T08:35:46+09:00",
+  "version": "9f0282075c",
+  "generatedAt": "2026-10-12T09:12:34+09:00",
   "units": [
     {
       "unit": 1,
@@ -492,6 +492,35 @@
         "images/u5/t5-05-a2.webp",
         "images/u5/t5-06-b2.webp"
       ]
+    },
+    {
+      "id": "u5_r3",
+      "kind": "round",
+      "unit": 5,
+      "units": [
+        5
+      ],
+      "round": 3,
+      "title": "Ⅴ단원 3회차 · 실전",
+      "subtitle": "학교 시험 형식, 지도서 변형, 고난도 · 30문항",
+      "order": 53,
+      "file": "data/u5_r3.json",
+      "count": 30,
+      "byType": {
+        "mc": 25,
+        "short": 0,
+        "essay": 5
+      },
+      "timeLimitMin": null,
+      "images": [
+        "images/u5/r3-t3-08-k.webp",
+        "images/u5/t1-01-k.webp",
+        "images/u5/t1-05.webp",
+        "images/u5/t1-06-k4.webp",
+        "images/u5/t3-01.webp",
+        "images/u5/t3-03-r.webp",
+        "images/u5/t3-05-r.webp"
+      ]
     }
   ],
   "images": [
@@ -591,12 +620,15 @@
     "images/u4/t2-09-p.webp",
     "images/u4/t2-10-a.webp",
     "images/u4/t2-12-k.webp",
+    "images/u5/r3-t3-08-k.webp",
+    "images/u5/t1-01-k.webp",
     "images/u5/t1-02.webp",
     "images/u5/t1-03-b.webp",
     "images/u5/t1-04-k.webp",
     "images/u5/t1-05.webp",
     "images/u5/t1-06-c.webp",
     "images/u5/t1-06-k.webp",
+    "images/u5/t1-06-k4.webp",
     "images/u5/t1-07-a.webp",
     "images/u5/t1-08-k.webp",
     "images/u5/t1-09-a.webp",
@@ -612,6 +644,7 @@
     "images/u5/t3-01.webp",
     "images/u5/t3-02.webp",
     "images/u5/t3-03-b.webp",
+    "images/u5/t3-03-r.webp",
     "images/u5/t3-04-k.webp",
     "images/u5/t3-05-r.webp",
     "images/u5/t3-07-b.webp",
