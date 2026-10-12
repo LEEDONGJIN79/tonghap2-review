@@ -1,7 +1,7 @@
 {
   "app": "통합사회2 중간대비",
-  "version": "1bc2d60e07",
-  "generatedAt": "2026-10-12T11:20:08+09:00",
+  "version": "50468cef47",
+  "generatedAt": "2026-10-12T12:25:01+09:00",
   "units": [
     {
       "unit": 1,
@@ -583,6 +583,39 @@
         "images/u5/t1-10-b.webp",
         "images/u5/t2-03.webp",
         "images/u5/t3-07-b.webp"
+      ]
+    },
+    {
+      "id": "mock_2",
+      "kind": "mock",
+      "unit": null,
+      "units": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "round": null,
+      "title": "실전 모의고사 2회",
+      "subtitle": "전 범위(Ⅰ·Ⅱ·Ⅳ·Ⅴ) · 50분 · 선택형 22 + 서술형 4 · 100점",
+      "order": 902,
+      "file": "data/mock_2.json",
+      "count": 26,
+      "byType": {
+        "mc": 22,
+        "short": 0,
+        "essay": 4
+      },
+      "timeLimitMin": 50,
+      "images": [
+        "images/u1/t2-07.webp",
+        "images/u1/t4-05.webp",
+        "images/u1/t5-06.webp",
+        "images/u2/t3-06-a.webp",
+        "images/u2/t3-06-b.webp",
+        "images/u5/r3-t3-08-k.webp",
+        "images/u5/t1-07-a.webp",
+        "images/u5/t3-11-a.webp"
       ]
     }
   ],
